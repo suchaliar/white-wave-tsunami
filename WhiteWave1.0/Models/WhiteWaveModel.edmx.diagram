@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="26c1a4f8dbc14a2fa8c0247df3fc3dc7" Name="Diagram1">
+        <EntityTypeShape EntityType="WWDBModel.Account" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="WWDBModel.AccountType" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="WWDBModel.CLOU" Width="1.5" PointX="0.75" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="WWDBModel.ContactInformation" Width="1.5" PointX="2.75" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="WWDBModel.Description" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="WWDBModel.EmailAddress" Width="1.5" PointX="0.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="WWDBModel.Employee" Width="1.5" PointX="4.75" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="WWDBModel.EmployeeType" Width="1.5" PointX="2.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="WWDBModel.Event" Width="1.5" PointX="4.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="WWDBModel.Invoice" Width="1.5" PointX="6.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="WWDBModel.Item" Width="1.5" PointX="0.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="WWDBModel.ItemType" Width="1.5" PointX="6.75" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="WWDBModel.Location" Width="1.5" PointX="2.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="WWDBModel.MailingAddress" Width="1.5" PointX="6.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="WWDBModel.MOU" Width="1.5" PointX="4.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="WWDBModel.Person" Width="1.5" PointX="6.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="WWDBModel.PhoneNumber" Width="1.5" PointX="8.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="WWDBModel.Procedure" Width="1.5" PointX="0.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="WWDBModel.Project" Width="1.5" PointX="8.75" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="WWDBModel.SoftwareInstallation" Width="1.5" PointX="2.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="WWDBModel.Status" Width="1.5" PointX="8.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="WWDBModel.SuportAgreement" Width="1.5" PointX="4.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="WWDBModel.Supplier" Width="1.5" PointX="8.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="WWDBModel.SupportEvent" Width="1.5" PointX="6.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="WWDBModel.Ticket" Width="1.5" PointX="8.75" PointY="8.75" IsExpanded="true" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
